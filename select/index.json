@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "愛とか恋とか",
+  "base_artist": "Novelbright",
+  "createdAt": "2025-12-03T13:10:49.194290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛とか恋とか",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_愛とか恋とか_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛とか恋とか",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_愛とか恋とか_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛とか恋とか - Aitoka Koitoka",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/03_愛とか恋とか_-_Aitoka_Koitoka_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Novelbright - 愛とか恋とか [Official Music Video]",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/04_Novelbright_-_愛とか恋とか_[Official_Music_Video]_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛とか恋とか",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_愛とか恋とか_Novelbright.txt"
+    }
+  ]
+}
